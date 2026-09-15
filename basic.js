@@ -45,5 +45,3 @@ let total = calculateTotal([20, 35, 50]);
 let status = getStatus(total);
 console.log(total);
 console.log(status);
-
-
