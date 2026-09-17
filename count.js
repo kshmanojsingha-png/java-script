@@ -73,4 +73,4 @@ function checkTemperature(temperature){
         console.log("Hot");
     }
 }
-checkTemperature(38);
+checkTemperature(49);
