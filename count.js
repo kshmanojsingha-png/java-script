@@ -31,11 +31,11 @@ console.log(result);
 // Teacher scoring note: 6 marks can be awarded across logic/approach (2), correctness/output (2), syntax/structure (1), and use of the requested concepts (1).
 
 
-function firstFail(marks,passMarks=40){
+// function firstFail(marks,passMarks=40){
 
-}
-let results=firstFail([65,72,33,80]);
-console.log(results);
+// }
+// let result=firstFail([65,72,33,80]);
+// console.log(result);
 
 
 //  Temperature Checker                                                                (DATE - 27/08/2026)
