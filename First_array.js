@@ -1,3 +1,5 @@
+// First array in class 
+
 const colors = ["Red", "Green", "Blue"];
 colors[0] = "Yellow";
 
